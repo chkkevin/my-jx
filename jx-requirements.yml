@@ -10,8 +10,8 @@ spec:
     devEnvApprovers:
     - todo
     environmentGitOwner: todo
-    gitKind: github
-    gitName: github
+    gitKind: 13.229.188.59
+    gitName: 13.229.188.59
     gitServer: https://13.229.188.59
     provider: kubernetes
     registry: ghcr.io
