@@ -12,7 +12,7 @@ spec:
     environmentGitOwner: todo
     gitKind: github
     gitName: github
-    gitServer: https://github.com
+    gitServer: https://13.229.188.59
     provider: kubernetes
     registry: ghcr.io
   environments:
